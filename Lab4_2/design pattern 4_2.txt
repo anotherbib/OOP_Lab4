@@ -1,0 +1,1 @@
+factory pattern : มีการสร้าง factory ที่ชื่อว่า CustomerFactory เพื่อให้ main ติดต่อทำงานจากที่เดียวเนื่องจากไม่รู้ concrete class ทำให้ไม่สามาถเรียกโดยตรงได้
